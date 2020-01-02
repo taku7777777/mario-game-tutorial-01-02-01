@@ -1,5 +1,3 @@
-# mario-game-tutorial-01-02-01
-
 本ソースの意図や背景は以下Qiitaで記載しています<br/>
 XXXXXXXXXXXX
 
